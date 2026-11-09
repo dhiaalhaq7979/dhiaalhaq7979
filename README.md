@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a **4th-semester BS Software Engineering** student at **Superior University, Lahore**. I started in Computer Science and moved to Software Engineering because I enjoy planning and building complete software, not only writing code. I am originally from Yemen and now based in Lahore, Pakistan.
+I am a ** BS Software Engineering** student at **Superior University, Lahore**. I started in Computer Science and moved to Software Engineering because I enjoy planning and building complete software, not only writing code. I am originally from Yemen and now based in Lahore, Pakistan.
 
 - I build console applications in **C++** and like understanding how things work under the hood.
 - I design **relational databases** and write SQL reports.
