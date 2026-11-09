@@ -26,7 +26,7 @@ I am a ** BS Software Engineering** student at **Superior University, Lahore**. 
 ### Education
 
 **BS Software Engineering** — Superior University, Lahore, Pakistan
-*4th semester (in progress)* · previously studied Computer Science
+*(in progress)* · previously studied Computer Science
 
 | Programming & CS | Math & Systems | Professional |
 |---|---|---|
